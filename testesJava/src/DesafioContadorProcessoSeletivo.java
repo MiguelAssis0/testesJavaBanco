@@ -28,7 +28,7 @@ public class DesafioContadorProcessoSeletivo {
         }
     }
 
-    static int contar(int param1, int param2) throws ParametrosInvalidosException {
+    static void contar(int param1, int param2) throws ParametrosInvalidosException {
         if(param1 > param2) throw new ParametrosInvalidosException();
 
         int contagem = param2 - param1;
