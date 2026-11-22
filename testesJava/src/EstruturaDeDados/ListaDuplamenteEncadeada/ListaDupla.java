@@ -6,7 +6,7 @@ public class ListaDupla<T> {
     private No<T> refFirstNo;
     private No<T> refLastNo;
 
-    private static int listSize;
+    private int listSize;
 
     public ListaDupla(){
         refFirstNo = null;
