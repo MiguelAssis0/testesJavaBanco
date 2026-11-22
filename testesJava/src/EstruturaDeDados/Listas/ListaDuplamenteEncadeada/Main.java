@@ -1,4 +1,4 @@
-package EstruturaDeDados.ListaDuplamenteEncadeada;
+package EstruturaDeDados.Listas.ListaDuplamenteEncadeada;
 
 public class Main {
 

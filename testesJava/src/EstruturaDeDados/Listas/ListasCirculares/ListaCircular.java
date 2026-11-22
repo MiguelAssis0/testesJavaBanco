@@ -1,4 +1,4 @@
-package EstruturaDeDados.ListasCirculares;
+package EstruturaDeDados.Listas.ListasCirculares;
 
 public class ListaCircular<T> {
     private No<T> refEntry;

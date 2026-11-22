@@ -1,4 +1,4 @@
-package EstruturaDeDados.Pilha;
+package EstruturaDeDados.Pilha_Fila.Pilha;
 
 public class Pilha {
     private No refNoEntradaPilha;

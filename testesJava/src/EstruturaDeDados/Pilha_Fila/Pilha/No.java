@@ -1,4 +1,4 @@
-package EstruturaDeDados.Pilha;
+package EstruturaDeDados.Pilha_Fila.Pilha;
 
 public class No {
     private int dado;

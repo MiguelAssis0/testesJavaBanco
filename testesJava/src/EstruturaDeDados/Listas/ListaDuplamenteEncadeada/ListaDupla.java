@@ -1,6 +1,4 @@
-package EstruturaDeDados.ListaDuplamenteEncadeada;
-
-import EstruturaDeDados.ListaEncadeada.ListaEncadeada;
+package EstruturaDeDados.Listas.ListaDuplamenteEncadeada;
 
 public class ListaDupla<T> {
     private No<T> refFirstNo;

@@ -1,4 +1,4 @@
-package EstruturaDeDados.Fila;
+package EstruturaDeDados.Pilha_Fila.Fila;
 
 public class Main {
     public static void main(String[] args){

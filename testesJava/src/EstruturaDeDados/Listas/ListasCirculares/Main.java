@@ -1,4 +1,4 @@
-package EstruturaDeDados.ListasCirculares;
+package EstruturaDeDados.Listas.ListasCirculares;
 
 public class Main {
     public void main(String[] args){

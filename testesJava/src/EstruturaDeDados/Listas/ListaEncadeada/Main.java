@@ -1,4 +1,4 @@
-package EstruturaDeDados.ListaEncadeada;
+package EstruturaDeDados.Listas.ListaEncadeada;
 
 public class Main {
     public static void main(String[] args){
